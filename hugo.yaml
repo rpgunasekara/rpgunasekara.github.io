@@ -1,4 +1,8 @@
 baseURL: https://rpgunasekara.com/
 locale: en-us
-title: Ravindu Gunasekara
+title: rpgunasekara
+copyright: "© Ravindu Gunasekara"
 theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
