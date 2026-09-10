@@ -2,3 +2,10 @@ baseURL: https://rpgunasekara.com/
 locale: en-us
 title: rpgunasekara
 theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
