@@ -6,13 +6,17 @@
     <description>Recent content on rpgunasekara</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hi, I&#39;m Ravindu!</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>This is my professional website.</description>
+      <title>Dos and Don&#39;ts of Machine Learning in Computer Security</title>
+      <link>http://localhost:1313/t1/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/t1/</guid>
+      <description>&lt;h4 id=&#34;link&#34;&gt;&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/arp&#34;&gt;Link&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;part-of-the-cmsc491-applied-ai-for-cybersecurity-cirriculum&#34;&gt;Part of the CMSC491: Applied AI for Cybersecurity cirriculum.&lt;/h4&gt;
+&lt;h3 id=&#34;paper-summary&#34;&gt;Paper Summary:&lt;/h3&gt;
+&lt;p&gt;The paper aims to provide guidance for the computer security researching community in producing reliable research by ensuring each step of the machine learning process is properly and carefully performed. Through thirty papers, the authors identify ten pitfalls and share their frequency in each paper. By experimenting on common security issues ML is used to solve, the authors were able to demonstrate how these pitfalls occur.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

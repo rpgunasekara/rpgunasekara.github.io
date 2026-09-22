@@ -1,0 +1,15 @@
+# Dos and Don'ts of Machine Learning in Computer Security
+#### [Link](https://www.usenix.org/conference/usenixsecurity22/presentation/arp)
+Part of the CMSC491: Applied AI for Cybersecurity cirriculum.
+---
+Paper Summary:
+The paper aims to provide guidance for the computer security researching community in producing reliable research by ensuring each step of the machine learning process is properly and carefully performed. Through thirty papers, the authors identify ten pitfalls and share their frequency in each paper. By experimenting on common security issues ML is used to solve, the authors were able to demonstrate how these pitfalls occur.
+
+Paper's Strengths:
+Empirical evidence shown in section 4 of the paper help demonstrate how each pitfall occurs through various papers. The way the pitfalls themselves are organized through each step of the machine learning workflow can help a researcher to be cautious and know what to look for as they are training a model. These two strengths support the main problem the paper is trying to address, and effectively communicates the importance of acknowledging and solving that problem.
+
+Paper's Weaknesses:
+While it's understandable the limitations of research within a controlled environment, real-world experimentation is not always feasible due to legal and ethical concerns. Although the authors recognize those issues, they offer no alternative than approximating real-world settings. The authors also recognize the bias in paper selection. Because the frequency of each pitfall is determined by the selected papers, it's hard to say whether or not the findings properly represent most research.
+
+Questions for Discussion:
+Since the publishing of the paper, how has recent ML research fared in terms of avoiding the listed pitfalls?
